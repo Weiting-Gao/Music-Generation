@@ -1,0 +1,7 @@
+responsibility:
+1.Data preprocessing: Hao Li
+2.Model:
+（1）WaveNet: Fangbing Xiong, Weiting Gao
+（2）LSTM: Hao Li, Weiting Gao
+3.Generate music: Fangbing Xiong
+4.Evaluation: Weiting Gao
